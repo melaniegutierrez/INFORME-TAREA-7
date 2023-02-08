@@ -14,6 +14,10 @@
 
 ## MARCO TEORICO (RESUMENES)
 
+![](https://github.com/melaniegutierrez/INFORME-TAREA-7/blob/main/1.png)
+
+![](https://github.com/melaniegutierrez/INFORME-TAREA-7/blob/main/2.png)
+
 ## EXPLICACION Y RESOLUCION DE EJERCICIOS
 
 ## VIDEO
