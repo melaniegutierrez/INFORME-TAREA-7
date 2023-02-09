@@ -20,8 +20,31 @@
 
 ## EXPLICACION Y RESOLUCION DE EJERCICIOS
 
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e1.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e2.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e3.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e4.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e5.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e6.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e7.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e8.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e9.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e10.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e11.png)
+![](https://github.com/melaniegutierrez/CAP-TAR-7/blob/main/e12.png)
+
 ## VIDEO
+
+Link: https://youtu.be/e3hs-wkp2jw 
 
 ## CONCLUSIONES
 
+- La inductancia es una propiedad muy importante que nos permite el estudio de circuitos ademas de que amplia la formacion y la aplicacion de diseño que tenemos de los circuitos electricos. ademas de conocer la estrecha relacion que tiene con el CA (corriente alterna) y el uso que se le puede dar a esta con ayuda de la inductancia.
+
+- Los transformadores son de mucha ayuda en el manejo de circuitos electricos.
+
 ## BIBLIOGRAFIA
+
+https://www.areatecnologia.com. (2023). Inductancia. Areatecnologia.com. https://www.areatecnologia.com/electricidad/inductancia.html
+
+‌
